@@ -1,9 +1,9 @@
 :root {
+  background: linear-gradient(to bottom, #8bc34a, #4caf50);
   --primary-color: #28835f;
   --secondary-color: #0019f7;
   --accent-color: #28835f;
   --text-color: #ffffff;
-  --background-color: #28835f;
   --font-family: 'Arial', sans-serif;
 }
 
